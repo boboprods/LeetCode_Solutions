@@ -1,2 +1,2 @@
 # LeetCode
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+This repository contains my solutions to various LeetCode problems. It serves as a record of my progress in solving algorithmic and data structure challenges. 
